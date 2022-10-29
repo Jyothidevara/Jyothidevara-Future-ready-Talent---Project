@@ -36,7 +36,7 @@ HTML
 CSS
 JavaScript
 
-**Screen Shots of Fashion website**
+**Screen Shots
 ![upload azure](https://user-images.githubusercontent.com/112508997/198832115-b9003744-f12c-455e-90d3-9b42e4e1573d.jpg)
 
 ![home](https://user-images.githubusercontent.com/112508997/197736371-26906a89-f070-4390-8948-95eb094dea97.jpg)
