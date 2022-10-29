@@ -54,4 +54,4 @@ JavaScript
 https://user-images.githubusercontent.com/112508997/197737312-52beec17-7f9e-4098-865d-b9745e707ca9.mp4
 
 **Demo video Url**
-https://sattvica.com/ffashions/demo.mp4
+https://ffashions.azurewebsites.net/demo.mp4
