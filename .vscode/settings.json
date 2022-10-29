@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7569be5e-a14e-4b4b-a86c-32dadc585bb6/AppServices/subscriptions/7569be5e-a14e-4b4b-a86c-32dadc585bb6/resourceGroups/ffashions_group/providers/Microsoft.Web/sites/ffashions",
+    "appService.deploySubpath": "."
+}
