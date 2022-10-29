@@ -1,4 +1,4 @@
-# Jyothidevara-Feature-ready-Talent---Project
+# Jyothidevara-Future-ready-Talent---Project
 # F Fashions
  F Fashions Ecommerce
 This is 10 Page E-commerce Front End website design
