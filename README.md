@@ -55,3 +55,5 @@ https://user-images.githubusercontent.com/112508997/197737312-52beec17-7f9e-4098
 
 **Demo video Url**
 https://ffashions.azurewebsites.net/demo.mp4
+Project Demo url:
+https://sattvica.com/ffashions/demo.mp4
